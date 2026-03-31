@@ -1,0 +1,21 @@
+STAY SAFE ONLINE – PREVENTION CHECKLIST
+
+1. OTP, UPI PIN or bank details are personal credentials. If Someone calls you and claim to be from your bank or a trusted service never share it to them.
+
+2. Always verify payment requests before accepting them, especially on apps like Google Pay or PhonePe, as fraud person may send fake payment requests.
+
+3. Avoid clicking on unknown links received through SMS, email, or social media, as they may lead to phishing websites.
+
+4. Use strong and unique passwords for all your accounts and enable two-factor authentication for security.
+
+5. Do not install apps from unknown sources; always download applications from official app stores only .ex: In desktop you can link your chrome browser to McAfee like antivirus software.
+
+6. Be cautious while using public Wi-Fi networks, especially when accessing banking or personal accounts.
+
+7. Regularly check bank statements and transaction history to quickly identify any unauthorized activity.
+
+8. Keep your phone and apps updated to ensure you have the latest security features and protections.
+
+9. Do not trust calls or messages claiming urgent account issues without verifying through official customer care.
+
+10. In case of any fraud, immediately report it on the National Cyber Crime Portal (cybercrime.gov.in) or call the helpline number 1930.

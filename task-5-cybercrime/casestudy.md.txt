@@ -1,0 +1,15 @@
+### Title: Case Study on UPI/Online Payment Fraud
+
+With the arrival of the digital world, online transactions are also part of our lives. We can easily observe many people using Google Pay etc., for online transactions. Along with this, online payment fraud is also increasing, which is going to create a harm cause for the security of the digital world.
+
+Fraud through online payment using UPI is one type of cyber crime in which scammers try to collect sensitive information from users, like UPI PIN, OTP, etc. They try to gain the trust of their victims by assuming any role, like a bank clerk, customer care executive, or a person they know. Once they gain access to their victims’ sensitive information, they can easily withdraw their money without their knowledge.
+
+One such type of online payment fraud can be explained by considering a situation in which a college student receives a call from a person claiming to be a person from his bank. The person who called the student claimed that he needed to complete the KYC process for his bank account, as failure it may lead to the suspension of his  bank account. The student, fearing the loss of his bank account, completed the task as instructed by the person who called him. The student clicked on a link sent through SMS, which led to a website almost similar to the official website of his bank.
+
+Within a matter of a few minutes, the student received a number of messages stating that the money had been deducted from his account. At this particular time, he realized that it was a scam, and a lot of money had already been lost. 
+
+Generally, fraud cases of this particular type are common among students, elderly people, or people who are not aware of the cybersecurity measures. The main reason for this type of fraud occurring is the lack of awareness. 
+
+
+ Precaution: In order to avoid such incidents, it is very important to take proper precautions. For instance, it is not advisable to share the UPI PIN and OTP with other people, even if it is a person from a bank. In addition, it is not advisable to fall into suspicious links and verify the information regarding the banking accounts. 
+
